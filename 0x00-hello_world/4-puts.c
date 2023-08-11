@@ -2,7 +2,6 @@
 /**
  * main - A program that prints a line with puts fonction
  * Return: 0 (success)
- *
  */
 int maid(void)
 {

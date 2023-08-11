@@ -5,6 +5,6 @@
  */
 int maid(void)
 {
-puts(i"\"programming is like building a multilingual puzzle");
+puts("\"programming is like building a multilingual puzzle");
 return (0);
 }

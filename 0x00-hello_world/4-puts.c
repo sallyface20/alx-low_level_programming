@@ -1,7 +1,8 @@
-#include <studio.h>
+#include <stdio.h>
 /**
- * main - Entry
- * Return: Always 0
+ * main - A program that prints a line with puts fonction
+ * Return: 0 (success)
+ *
  */
 int maid(void)
 {
